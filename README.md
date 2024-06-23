@@ -3,8 +3,6 @@
 <h3 align="center">Welcome to my GitHub Profile</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqahmed86&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqahmed86" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imsadiq01" target="blank"><img src="https://img.shields.io/twitter/follow/imsadiq01?logo=twitter&style=for-the-badge" alt="imsadiq01" /></a> </p>
-
 - 💬 Ask me about **SQL, Python, Power BI, Excel and EDA**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sadiq_18](https://linktr.ee/sadiq_18)
