@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sadiq_18](https://linktr.ee/sadiq_18)
 
-- 📫 How to reach me **sadiqahmed8682@gmail.com**
+- 📫 How to reach me **sadiqahmedanalytics@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
